@@ -1,0 +1,25 @@
+.owl-prev{
+	color: red;
+	background-image: url(../img/arN.png);
+	background-repeat: no-repeat;
+	width: 12px;
+	float: left;
+	position: relative;
+	bottom: 94px;
+	height: 23px;
+}
+.owl-next{
+	background-image: url(../img/arN.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+	width: 12px;
+	float: right;
+	position: relative;
+	bottom: 94px;
+	height: 23px;
+}
+.owl-carousel .owl-item img{
+	width: auto;
+	padding-left: 100px;
+	float: left;
+}
